@@ -7,7 +7,7 @@ package ridesharing.Exceptions;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class InvalidVehicle extends RuntimeException {
 
