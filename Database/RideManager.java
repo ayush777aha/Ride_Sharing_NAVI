@@ -15,7 +15,7 @@ import ridesharing.Model.Ride;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class RideManager {
    // private Map<String,List<Ride>> activeRides;
