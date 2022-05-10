@@ -7,7 +7,7 @@ package ridesharing.Model;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class Vehicle {
     private String userName;
