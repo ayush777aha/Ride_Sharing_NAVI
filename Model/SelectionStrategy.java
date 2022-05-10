@@ -9,7 +9,7 @@ import ridesharing.Database.RideManager;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public interface SelectionStrategy {
     public Ride findRides(String origin, String destination, int seats, RideManager rideManager, String vehicleNumber);
