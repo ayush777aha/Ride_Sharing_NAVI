@@ -7,7 +7,7 @@ package ridesharing.Model;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public enum RideStatus {
     ACTIVE, END;
