@@ -12,7 +12,7 @@ import ridesharing.Exceptions.VehicleAlreadyExists;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class User {
     private String name;
