@@ -11,7 +11,7 @@ import ridesharing.Service.Application;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class RideSharingTest {
 
