@@ -13,7 +13,7 @@ import ridesharing.Exceptions.NoRideFound;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class MostVacantStrategy implements SelectionStrategy {
 
