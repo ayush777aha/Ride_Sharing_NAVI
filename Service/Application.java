@@ -20,7 +20,7 @@ import ridesharing.Model.Vehicle;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class Application {
     private RideManager rideManager;
