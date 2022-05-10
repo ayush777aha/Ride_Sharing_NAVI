@@ -11,7 +11,7 @@ import java.util.UUID;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class Ride {
     private UUID id;
