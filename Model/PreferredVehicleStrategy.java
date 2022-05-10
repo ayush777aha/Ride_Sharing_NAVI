@@ -12,7 +12,7 @@ import ridesharing.Exceptions.NoRideFound;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class PreferredVehicleStrategy implements SelectionStrategy{
 
