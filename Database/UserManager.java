@@ -16,7 +16,7 @@ import ridesharing.Model.User;
 
 /**
  *
- * @author paragkanodia
+ * @author AyushGarg
  */
 public class UserManager {
     private Map<String,User> users;
